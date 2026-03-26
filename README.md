@@ -14,6 +14,6 @@ Um simulador de montagem de hardware focado em compatibilidade, desenvolvido com
 - **JavaScript ES6+** 
 
 ##  Link do Projeto Online
-
+- Link: https://bahianinho-pc-builder.vercel.app/
 
 Desenvolvido por Vinícius Coimbra Cardoso durante o curso de ADS.
